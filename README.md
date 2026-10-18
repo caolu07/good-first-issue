@@ -5,7 +5,7 @@
 </p>
 <hr>
 
-Welcome! 👋🏼
+Welcome! 👋🏼  欢迎来到Good First Issue项目
 
 **Good First Issue** is an initiative to curate easy pickings from popular projects, so developers who've never contributed to open-source can get started quickly.
 
